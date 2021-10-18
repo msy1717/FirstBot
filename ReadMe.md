@@ -3,7 +3,7 @@ Simple base used to make a Telegram Bot in [telethon](https://github.com/LonamiW
    
 Join [✘ 𝘽𝙤𝙩𝙯 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 ✘](https://t.me/Botz_Official)!
     
-Note: The `client`, here, is named `BotOfficial`.
+
    
 # Deploying
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
