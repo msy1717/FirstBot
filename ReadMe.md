@@ -1,7 +1,7 @@
 # Telegram Bot
 Simple base used to make a Telegram Bot in [telethon](https://github.com/LonamiWebs/Telethon).
    
-Join [✘ 𝘽𝙤𝙩𝙯 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 ✘](https://t.me/Botz_Official)!
+Join [✘ 𝘽𝙤𝙩𝙯 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 ✘](https://t.me/BeastX_Bots)!
     
 
    
@@ -11,6 +11,5 @@ Join [✘ 𝘽𝙤𝙩𝙯 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 ✘](https://t.me/Bo
 # Credits
 - [😈Me](https://t.me/Godmrunal)
 
-# Suggested By
 
-- [coder_debojit](https://t.me/coder_debojit)
+
