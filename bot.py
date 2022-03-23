@@ -32,7 +32,7 @@ async def start_(event):
                     "Developer", url="https://t.me/Godmrunal"
                 ),
             ],
-            [Button.url("Channel", url="https://t.me/Botz_Official")],
+            [Button.url("Channel", url="https://t.me/BeastX_Bots")],
         ],
     )
 
